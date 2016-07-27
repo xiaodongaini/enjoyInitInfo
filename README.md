@@ -21,7 +21,7 @@ webpack: sudo npm i webpack -g
  
 ###  编译 react-native 项目
 －下载 elongtravel文件（ios环境文件）  
-－新拉下来的代码要在 elongtravel 文件夹下执行 pod update --no-repo-update 命令
+－新拉下来的代码要在 elongtravel 文件夹下执行 pod update --no-repo-update 命令  
 －在 FindHotel 文件夹下执行 enjoy build --rn   
 －在 rn 目录下执行 react-native start   
 －在xcode 软件中打开 elongtravel 文件夹下的 ElongClient.xcworkspace 文件  
